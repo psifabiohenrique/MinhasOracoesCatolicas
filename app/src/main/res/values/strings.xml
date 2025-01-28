@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MinhasOracoes</string>
+    <string name="escolher_terco">Escolher terço</string>
+    <string name="minha_estatistica">Minha estatística</string>
+    <string name="doloroso">Doloroso</string>
+    <string name="gozoso">Gozoso</string>
+    <string name="luminoso">Luminoso</string>
+    <string name="glorioso">Glorioso</string>
+</resources>
